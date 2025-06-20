@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #ece3e3;
+}
+
+
+.user{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+     text-align: center;
+     margin-top: 50px;
+     margin-left: 400px;
+     border-radius: 17px;
+     padding: 10px 0;
+
+}
+
+.user img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.user h2{
+    color: green;
+    padding: 20px 0;
+}
+
+.user h3,p{
+    padding: 6px 0;
+}
+
+hr{
+    width: 250px;
+    margin-left: 30px;
+}
+
+#btn{
+    background-color: rgb(56, 56, 215);
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    margin-left: 480px;
+    position: absolute;
+    bottom: 200px;
+}
